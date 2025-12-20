@@ -1,0 +1,10 @@
+Content:
+```
+venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+reports/
+screenshots/
+*.log
+.env
