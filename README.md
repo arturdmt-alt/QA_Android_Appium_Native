@@ -1,5 +1,7 @@
 # Android Native Automation Testing with Appium
 
+[![Android Syntax Check](https://github.com/arturdmt-alt/QA_Android_Appium_Native/actions/workflows/tests.yml/badge.svg)](https://github.com/arturdmt-alt/QA_Android_Appium_Native/actions/workflows/tests.yml)
+
 Automated testing framework for Android native applications using Appium 2.x, Python, and pytest.
 
 ## Project Overview
@@ -223,8 +225,8 @@ Planned improvements for this framework:
 
 Artur Dmytriyev - QA Automation Engineer
 
-- GitHub: [@arturdmt-alt](https://github.com/arturdmt-alt)
-- LinkedIn: [linkedin.com/in/arturdmytriyev](https://www.linkedin.com/in/arturdmytriyev)
+- GitHub: https://github.com/arturdmt-alt
+- LinkedIn: https://www.linkedin.com/in/arturdmytriyev
 
 ## Notes
 
