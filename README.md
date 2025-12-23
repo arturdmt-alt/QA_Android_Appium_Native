@@ -218,7 +218,6 @@ Planned improvements for this framework:
 - Expand test coverage to additional Settings screens
 - Add data-driven testing using pytest parametrize
 - Generate HTML test reports for better visibility
-- Set up GitHub Actions CI/CD pipeline for automated test runs
 - Test execution on real Android devices in addition to emulators
 
 ## Author
